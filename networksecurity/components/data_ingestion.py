@@ -1,6 +1,6 @@
 from networksecurity.exception.exception import NetworkSecurityException
 from networksecurity.logging.logger import logging
-
+import certifi
 
 ## configuration of the Data Ingestion Config
 
